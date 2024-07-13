@@ -62,7 +62,6 @@
 }
 
 img{
-  padding:5px;
   padding-bottom:0px;
   width:100%;
   height:auto;
@@ -76,7 +75,6 @@ img{
 
 }
 .image-name{
-    margin-right: auto; /* Pushes this item to the center */
 
 }
 .download{
