@@ -68,15 +68,4 @@ img{
   object-fit: cover;
   aspect-ratio: 4/3;
 }
-.image-container-bottom{
-  width:100%;
-  display:flex;
-  justify-content: space-between; /* Aligns items with space between them */
 
-}
-.image-name{
-
-}
-.download{
-
-}
